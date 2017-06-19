@@ -1,0 +1,158 @@
+  0  0 Fallout4.esm
+  1  1 DLCRobot.esm
+  2  2 DLCworkshop01.esm
+  3  3 DLCCoast.esm
+       DLCworkshop02.esm
+       DLCworkshop03.esm
+       DLCNukaWorld.esm
+  4  4 Unofficial Fallout 4 Patch.esp
+  5  5 ArmorKeywords.esm
+  6  6 SettlementKeywords.esm
+  7  7 Homemaker.esm
+  8  8 SimSettlements.esm
+  9  9 TrueStormsFO4.esm
+ 10  a BetterModDescriptions.esp
+ 11  b ColorfulSurvivalIcons.esp
+ 12  c ValdacilsItemSorting-00-ValsPicks-DLCVersion.esp
+ 13  d chem redux.esp
+ 14  e VIS-PatchChemRedux.esp
+ 15  f DV-Deadly Vertibirds.esp
+ 16 10 ShellRain.esp
+ 17 11 timetravel.esp
+ 18 12 SafeTrunkContentsReworked.esp
+ 19 13 Docile Radstags.esp
+ 20 14 VendorCaps.esp
+ 21 15 CTHHostileNPCsAndSneaking.esp
+ 22 16 Crafting Workbench.esp
+ 23 17 Crafting Workbenches - Automatron DLC.esp
+ 24 18 Crafting Workbenches - Faction and Quest Requirements.esp
+ 25 19 Crafting Workbenches - Junk Items.esp
+ 26 1a Crafting Workbenches - Power Armor.esp
+ 27 1b Crafting Workbenches - Pre War and Manufactured.esp
+ 28 1c DD_Khassar_De_Templari_Increased_build.esp
+ 29 1d MoBettaScrap.esp
+ 30 1e SlowTime.esp
+ 31 1f EasyHacking.esp
+ 32 20 Faster Terminal Displays (20x).esp
+ 33 21 Journey.esp
+ 34 22 LegendaryRarity25.esp
+ 35 23 LegendaryAllDifficulties5x.esp
+ 36 24 Live Dismemberment - BrutalNoHeadshots.esp
+ 37 25 Live Dismemberment - LiebermodeNoHeadshots.esp
+ 38 26 Live Dismemberment - RegularNoHeadshots.esp
+ 39 27 LongerPowerLines3x.esp
+ 40 28 Splinterz.esp
+ 41 29 Quick Save.esp
+ 42 2a TakeCover.esp
+ 43 2b WOTC.esp
+ 44 2c Arbitration - Recommended Core.esp
+ 45 2d Arbitration - Survival Damage by Player 2x.esp
+ 46 2e Arbitration - Survival Damage to Player 3x.esp
+ 47 2f CBBE.esp
+ 48 30 Armorsmith Extended.esp
+ 49 31 ApalLeotard.esp
+ 50 32 ChineseStealthSuit.esp
+ 51 33 DX Courser X-92 Power Suit.esp
+ 52 34 Headcrab_Bunny.esp
+ 53 35 CROSS_Uni_BosUniform.esp
+ 54 36 TrueReporter.esp
+ 55 37 VaultSuitUnzipped.esp
+ 56 38 WBO-Automatron.esp
+ 57 39 WBO.esp
+ 58 3a Weapons of Fate.esp
+ 59 3b WBO-Weapons of Fate.esp
+ 60 3c Extended weapon mods.esp
+ 61 3d WBO-Extended Weapon Mods.esp
+ 62 3e 3dscopes-FarHarbor.esp
+ 63 3f 3dscopes-framework.esp
+ 64 40 3dscopes-NukaWorld.esp
+ 65 41 3dscopes.esp
+ 66 42 3dscopes-AddToSpawnList.esp
+ 67 43 Quieter Settlements - Vanilla.esp
+ 68 44 Quieter Settlements - Wasteland Workshop.esp
+ 69 45 Quieter Settlements - Contraptions.esp
+ 70 46 Better Cooking Stations.esp
+ 71 47 Homemaker - Streetlights Use Passive Power.esp
+ 72 48 CraftableAnimationMarkers.esp
+ 73 49 BrightStartlight.esp
+ 74 4a BTInteriors_Project.esp
+ 75 4b subwayrunnnernodynamic.esp
+ 76 4c Eli_Faction Housing Overhaul - V81.esp
+ 77 4d nvvault1080.esp
+ 78 4e FogOut - Interiors - All DLC.esp
+ 79 4f CombatZoneRestored.esp
+ 80 50 Mansion.esp
+ 81 51 TrainBar.esp
+ 82 52 AA FusionCityRising.esp
+ 83 53 Move (Get Out the Way).esp
+ 84 54 AA FusionCityRising - HotC.esp
+ 85 55 Raider Children.esp
+ 86 56 Eli_Armour_Compendium.esp
+ 87 57 My_Minutemen.esp
+ 88 58 AnotherLife.esp
+ 89 59 OutcastsAndRemnants.esp
+ 90 5a WRVR.esp
+ 91 5b RRTV_GoodneighborCondo.esp
+ 92 5c SuperMutantOverhaul.esp
+ 93 5d MaxwellsWorl.esp
+ 94 5e Vivid Weathers - FO4.esp
+ 95 5f TrueStormsFO4-EarlierSunsets.esp
+ 96 60 DeadlyRadstorms_Climate_15.esp
+ 97 61 DeadlyRadstorms_Damage_10.esp
+ 98 62 Vivid Waters.esp
+ 99 63 UniqueUniques.esp
+100 64 TheKite_VTS.esp
+101 65 LightsaberMod.esp
+102 66 P90.esp
+103 67 P90NPC.esp
+104 68 BetterSettlers.esp
+105 69 Killable Children.esp
+106 6a Sneaky Kills.esp
+107 6b DiverseChildren.esp
+108 6c Orphans.esp
+109 6d RansackedRelay.esp
+110 6e Pug.esp
+111 6f CorvalhoWidowShotgun.esp
+112 70 111Club3366.esp
+113 71 USSQuincy.esp
+114 72 ellen.esp
+115 73 DX_Black_Widow.esp
+116 74 AtomicRadio.esp
+117 75 AzarPonytailHairstyles.esp
+118 76 BetterSettlersCleanFacePack.esp
+119 77 BetterSettlersCCAPack2.0.esp
+120 78 BetterSettlersMortalPack.esp
+121 79 BetterSettlersMostlyFemale.esp
+122 7a BetterSettlersNoLollygagging.esp
+123 7b Killable Children - Far Harbor.esp
+124 7c Killable Children - Nuka World.esp
+125 7d Magnolia.esp
+126 7e AkaSinger.esp
+127 7f AkaSingersWardrobe.esp
+128 80 Insignificant Object Remover.esp
+129 81 EveryonesBestFriend.esp
+130 82 llamaCompanionHeather.esp
+131 83 salvagebeacons.esp
+132 84 LovingCait.esp
+133 85 LovingCurie_1.0.3b.esp
+134 86 Edit_Hancock.esp
+135 87 More Where That Came From Diamond City.esp
+136 88 PIP-Pad.esp
+137 89 BobbleGirl.esp
+138 8a dD-Enhanced Blood Basic.esp
+139 8b dD - Limited Blood Decals.esp
+140 8c dD - Screen Blood Duration Medium.esp
+141 8d EAMR.esp
+142 8e Realistic Roads 2.0 Black.esp
+143 8f TrueStormsFO4-FarHarbor.esp
+144 90 Vivid Weathers - FO4 - Far Harbor.esp
+145 91 TrueStormsFO4-GlowingSeaExtraRads.esp
+146 92 TrueStormsFO4-FarHarborExtraRads.esp
+147 93 TrueStormsFO4-EarlierSunsetsFH.esp
+148 94 FAR.esp
+149 95 DarkerNightsDetection.esp
+150 96 BetterNightVision.esp
+151 97 TrueStormsFO4-NukaWorld-FH-Compat.esp
+152 98 Vivid Weathers - Nuka World.esp
+153 99 DarkerNights.esp
+154 9a DarkerNights-FogOut.esp
